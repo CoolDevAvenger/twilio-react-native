@@ -1,0 +1,12 @@
+# node.js
+node_modules/
+
+# project
+build/
+coverage/
+.env
+
+# logs
+combined.log
+error.log
+
